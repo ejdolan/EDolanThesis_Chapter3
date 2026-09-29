@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:systemMetadata xmlns:ns2="http://ns.dataone.org/service/types/v1" xmlns:ns3="http://ns.dataone.org/service/types/v2.0">
+    <serialVersion>0</serialVersion>
+    <identifier>doi:10.5063/F1NG4P4R</identifier>
+    <formatId>https://eml.ecoinformatics.org/eml-2.2.0</formatId>
+    <size>48827</size>
+    <checksum algorithm="MD5">da2e65ad2f5b413d85491b18708dfb09</checksum>
+    <submitter>http://orcid.org/0000-0001-6944-3422</submitter>
+    <rightsHolder>http://orcid.org/0000-0001-6944-3422</rightsHolder>
+    <accessPolicy>
+        <allow>
+            <subject>CN=knb-data-admins,DC=dataone,DC=org</subject>
+            <permission>read</permission>
+            <permission>write</permission>
+            <permission>changePermission</permission>
+        </allow>
+        <allow>
+            <subject>public</subject>
+            <permission>read</permission>
+        </allow>
+    </accessPolicy>
+    <replicationPolicy replicationAllowed="false"/>
+    <obsoletes>urn:uuid:4439b525-6ae0-48e5-89c8-d827597f53e9</obsoletes>
+    <archived>false</archived>
+    <dateUploaded>2024-05-24T17:17:36.612+00:00</dateUploaded>
+    <dateSysMetadataModified>2024-05-24T17:17:38.217+00:00</dateSysMetadataModified>
+    <originMemberNode>urn:node:KNB</originMemberNode>
+    <authoritativeMemberNode>urn:node:KNB</authoritativeMemberNode>
+    <fileName>TREAM_Time_series_of_freshwater.xml</fileName>
+</ns3:systemMetadata>

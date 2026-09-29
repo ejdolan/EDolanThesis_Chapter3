@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:systemMetadata xmlns:ns2="http://ns.dataone.org/service/types/v1" xmlns:ns3="http://ns.dataone.org/service/types/v2.0">
+    <serialVersion>0</serialVersion>
+    <identifier>urn:uuid:e949ef54-c02c-40e6-bab3-640535b16512</identifier>
+    <formatId>text/csv</formatId>
+    <size>58898294</size>
+    <checksum algorithm="MD5">bef2863193ec9474f711a2dbba4252e9</checksum>
+    <submitter>http://orcid.org/0000-0001-6944-3422</submitter>
+    <rightsHolder>http://orcid.org/0000-0001-6944-3422</rightsHolder>
+    <accessPolicy>
+        <allow>
+            <subject>public</subject>
+            <permission>read</permission>
+        </allow>
+        <allow>
+            <subject>CN=knb-data-admins,DC=dataone,DC=org</subject>
+            <permission>read</permission>
+            <permission>write</permission>
+            <permission>changePermission</permission>
+        </allow>
+    </accessPolicy>
+    <replicationPolicy replicationAllowed="false"/>
+    <obsoletes>urn:uuid:894f5159-2737-423a-89e1-57beedb4b88b</obsoletes>
+    <archived>false</archived>
+    <dateUploaded>2024-05-01T21:53:20.201+00:00</dateUploaded>
+    <dateSysMetadataModified>2024-05-01T21:53:20.800+00:00</dateSysMetadataModified>
+    <originMemberNode>urn:node:KNB</originMemberNode>
+    <authoritativeMemberNode>urn:node:KNB</authoritativeMemberNode>
+    <fileName>TREAM_allTaxa.csv</fileName>
+</ns3:systemMetadata>

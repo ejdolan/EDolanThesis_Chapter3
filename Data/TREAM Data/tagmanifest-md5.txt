@@ -1,0 +1,10 @@
+b5423fe9a2293815a909435709b2d81d metadata/oai-ore.xml
+da2e65ad2f5b413d85491b18708dfb09 metadata/science-metadata.xml
+8e07a91b9667f6fa103a18c24787c653 metadata/sysmeta/sysmeta-urn_uuid_95d336a0-3816-4385-8d26-e87396286220.xml
+8ebd9e3925d7f6b2c74d669cbf10aa10 metadata/sysmeta/sysmeta-urn_uuid_1b99dab9-d2e6-4e68-a49e-e36d0b2fbfa9.xml
+eaa2c609ff6371712f623f5531945b44 bagit.txt
+02321242d8faf5e0fc21659158edb7df bag-info.txt
+e4caf3eb21e5ea5674e1b707c78fb728 metadata/sysmeta/sysmeta-urn_uuid_ea788cbc-e450-4e9e-9da4-1cdacfba4c19.xml
+451591e7abc3109e17729e0ef2358580 metadata/sysmeta/sysmeta-urn_uuid_e949ef54-c02c-40e6-bab3-640535b16512.xml
+c1763fbcc6ed226e0a779c1cce0c742b metadata/sysmeta/sysmeta-doi_10.5063_F1NG4P4R.xml
+00690afc02e13b1da81c4c7a7377720c manifest-md5.txt

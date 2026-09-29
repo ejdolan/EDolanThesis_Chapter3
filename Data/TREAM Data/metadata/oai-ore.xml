@@ -1,0 +1,55 @@
+<rdf:RDF
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://purl.org/spar/cito/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:ore="http://www.openarchives.org/ore/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" > 
+  <rdf:Description rdf:nodeID="A0">
+    <foaf:name>http://orcid.org/0000-0001-6944-3422</foaf:name>
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Agent"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3Ae949ef54-c02c-40e6-bab3-640535b16512">
+    <ore:isAggregatedBy rdf:resource="https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3A1b99dab9-d2e6-4e68-a49e-e36d0b2fbfa9#aggregation"/>
+    <j.0:isDocumentedBy rdf:resource="https://cn.dataone.org/cn/v2/resolve/doi%3A10.5063%2FF1NG4P4R"/>
+    <dcterms:identifier>urn:uuid:e949ef54-c02c-40e6-bab3-640535b16512</dcterms:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3A1b99dab9-d2e6-4e68-a49e-e36d0b2fbfa9#aggregation">
+    <ore:aggregates rdf:resource="https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3Ae949ef54-c02c-40e6-bab3-640535b16512"/>
+    <ore:aggregates rdf:resource="https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3A95d336a0-3816-4385-8d26-e87396286220"/>
+    <ore:aggregates rdf:resource="https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3Aea788cbc-e450-4e9e-9da4-1cdacfba4c19"/>
+    <ore:aggregates rdf:resource="https://cn.dataone.org/cn/v2/resolve/doi%3A10.5063%2FF1NG4P4R"/>
+    <ore:isDescribedBy rdf:resource="https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3A1b99dab9-d2e6-4e68-a49e-e36d0b2fbfa9"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <foaf:name>Ellen Welti</foaf:name>
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Agent"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3A1b99dab9-d2e6-4e68-a49e-e36d0b2fbfa9">
+    <dc:creator rdf:nodeID="A0"/>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/ResourceMap"/>
+    <ore:describes rdf:resource="https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3A1b99dab9-d2e6-4e68-a49e-e36d0b2fbfa9#aggregation"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-24T17:17:39.289Z</dcterms:modified>
+    <dcterms:identifier>urn:uuid:1b99dab9-d2e6-4e68-a49e-e36d0b2fbfa9</dcterms:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3A95d336a0-3816-4385-8d26-e87396286220">
+    <ore:isAggregatedBy rdf:resource="https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3A1b99dab9-d2e6-4e68-a49e-e36d0b2fbfa9#aggregation"/>
+    <j.0:isDocumentedBy rdf:resource="https://cn.dataone.org/cn/v2/resolve/doi%3A10.5063%2FF1NG4P4R"/>
+    <dcterms:identifier>urn:uuid:95d336a0-3816-4385-8d26-e87396286220</dcterms:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn.dataone.org/cn/v2/resolve/doi%3A10.5063%2FF1NG4P4R">
+    <j.0:documents rdf:resource="https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3Ae949ef54-c02c-40e6-bab3-640535b16512"/>
+    <j.0:documents rdf:resource="https://cn.dataone.org/cn/v2/resolve/doi%3A10.5063%2FF1NG4P4R"/>
+    <j.0:documents rdf:resource="https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3Aea788cbc-e450-4e9e-9da4-1cdacfba4c19"/>
+    <j.0:documents rdf:resource="https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3A95d336a0-3816-4385-8d26-e87396286220"/>
+    <j.0:isDocumentedBy rdf:resource="https://cn.dataone.org/cn/v2/resolve/doi%3A10.5063%2FF1NG4P4R"/>
+    <ore:isAggregatedBy rdf:resource="https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3A1b99dab9-d2e6-4e68-a49e-e36d0b2fbfa9#aggregation"/>
+    <dcterms:identifier>doi:10.5063/F1NG4P4R</dcterms:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3Aea788cbc-e450-4e9e-9da4-1cdacfba4c19">
+    <ore:isAggregatedBy rdf:resource="https://cn.dataone.org/cn/v2/resolve/urn%3Auuid%3A1b99dab9-d2e6-4e68-a49e-e36d0b2fbfa9#aggregation"/>
+    <j.0:isDocumentedBy rdf:resource="https://cn.dataone.org/cn/v2/resolve/doi%3A10.5063%2FF1NG4P4R"/>
+    <dcterms:identifier>urn:uuid:ea788cbc-e450-4e9e-9da4-1cdacfba4c19</dcterms:identifier>
+  </rdf:Description>
+</rdf:RDF>
